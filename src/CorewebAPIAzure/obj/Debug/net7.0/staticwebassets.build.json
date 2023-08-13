@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "s3Kq/rqqKXYYFC+mCwh+OmDPKU5Wkh2iY06vw0TmAn4=",
+  "Source": "CorewebAPIAzure",
+  "BasePath": "_content/CorewebAPIAzure",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
