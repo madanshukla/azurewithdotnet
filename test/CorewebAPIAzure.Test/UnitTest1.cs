@@ -9,6 +9,6 @@ public class UnitTest1
     {
 ValuesController values=new ValuesController();
 var test=values.Get();
-Assert.Null(test);
+Assert.Equal(test,new string[] { "value1" });
     }
 }
