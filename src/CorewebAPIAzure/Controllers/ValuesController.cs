@@ -18,7 +18,7 @@ namespace CorewebAPIAzure.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "value123" };
+            return new string[] { "Sandeep Sir" };
         }
 
         // GET api/values/5
